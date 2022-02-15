@@ -1,0 +1,33 @@
+.ocjena{
+    text-decoration: underline overline #6661ED;
+}
+
+.button{
+    float: right; 
+    background-color: #6661ED;
+    color:white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+img{
+    width: 180px;
+    height: 220px;
+    float: left;
+}
+
+.star{
+    width: 20px;
+    height: 20px;
+}
+
+p{
+    position: relative;
+    left: 10px;
+}
+
+.top-bar{
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
